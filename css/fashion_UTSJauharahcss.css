@@ -1,0 +1,73 @@
+body {
+    background-color: #FEEEE3;
+    font-family: 'poppins', sans-serif;
+    color : #2C2F83;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    font-size: 120%;
+}
+
+/*images size*/
+img {
+    width: 20%;
+}
+.J {
+    height: 70px; 
+    width: 80px; 
+    margin-left: 3%;
+    padding-bottom: 1%;
+}
+#A {
+    background-color: #FEEEE3;
+    color: #2C2F83;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius:  10px;
+    border: 5px solid #FEEEE3; 
+}
+.back {
+    background-image: url('../images/fashion.jpeg');
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 40%;
+    background-attachment: fixed;
+}
+.image {
+    height: 380;
+    width: 250;
+    padding-bottom: 2%;
+    margin-left: 41%;
+    margin-right: 5%;
+}
+
+/*css font*/
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #2C2F83;
+    font-family: 'poppins', sans-serif;
+    text-align: justify;
+}
+.dekorasi {
+    list-style-type: square;
+    text-align: justify;
+    color: #2C2F83;
+    font-size: 100%;
+    font-family: 'poppins', sans-serif;
+}
+#b {
+    color: #2C2F83;
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+}
+
+/* Link */
+.c {
+    color: #2C2F83;
+    font-family: 'poppins', sans-serif;
+}
+
+/*footer*/
